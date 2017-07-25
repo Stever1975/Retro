@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Retro_Web.data.unityweb",
+"asmCodeUrl": "Retro_Web.asm.code.unityweb",
+"asmMemoryUrl": "Retro_Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Retro_Web.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
